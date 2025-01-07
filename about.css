@@ -195,7 +195,7 @@ ul{
 .footer-logo {
   width: 45%;
   padding: 0 120px;
-  margin-top: 85px;
+  margin: auto;
 }
 .footer-logo h4{
   font-size: 1.7em;
